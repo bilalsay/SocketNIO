@@ -5,8 +5,8 @@ This project consist two app.
 You should run below command seperatly.
 
 For Writer App
-java -cp com.company.WriterApp
+java -cp SocketNIO.jar com.company.WriterApp
 
 For Reader App
-java -cp com.company.ReaderApp
+java -cp SocketNIO.jar com.company.ReaderApp
 
